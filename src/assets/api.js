@@ -1,0 +1,1 @@
+export const base_url = "https://localhost:44309/api/Person/ ";
