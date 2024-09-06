@@ -11,12 +11,12 @@ function Menu(){
                 <li>
                     <Link to='/list-people' className='bg-sky-600 px-4 py-1 rounded-sm'>Show people</Link>
                 </li>
-                <li>
+                {/* <li>
                     <Link to='/update-person' className='bg-sky-600 px-4 py-1 rounded-sm'>Update Person</Link>
                 </li>
                 <li>
                     <Link to='/delete-person/' className='bg-red-600 px-4 py-1 rounded-sm'>Delete Person</Link>
-                </li>
+                </li> */}
             </ul>
         </nav>
     );
